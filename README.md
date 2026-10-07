@@ -1,4 +1,4 @@
-# AI 自用小车使用说明
+# AI 自用车使用说明
 
 公开页面：https://xxxgalaxy.github.io/ai-sharing-guide/
 
